@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br />
 Live Demo
-br />
+<br />
 https://react-shopping-app.firebaseapp.com/
 ## Available Scripts
 
